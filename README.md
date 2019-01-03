@@ -13,4 +13,3 @@
 ### 외부링크
 
 - [Integrate with External Tools via Tasks](https://code.visualstudio.com/docs/editor/tasks#vscode): Ch01-Visual Studio Code 빌드 작업 구성
-` 
