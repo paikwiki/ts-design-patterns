@@ -1,0 +1,3 @@
+class Base {
+  state: number;
+}

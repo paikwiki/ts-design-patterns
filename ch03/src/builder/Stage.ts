@@ -1,0 +1,3 @@
+interface Stage {
+  engines: Engine[];
+}
